@@ -129,7 +129,5 @@ dmypy.json
 .pyre/
 
 /Dataset
-/ModelosGerais/DatasetTotal.csv
-/ModelosGerais/teste.csv
-/ModelosGeraisRuben/DatasetTotal.csv
-/ModelosGeraisRuben
+/Modelos_gerais/DatasetTotal.csv
+/Modelos_gerais/teste.csv
